@@ -139,7 +139,7 @@ cat archivo.kt | tr -cd '\11\12\15\40-\176' > temp.kt && mv temp.kt archivo.kt
 ---
 
 **Elaborado por:** Equipo de Desarrollo LobitoAPK  
-**Contacto:** [tu-email@equipo.com]  
+**Contacto:** [sanlobo3@hotmail.com]  
 **Revisión:** 24/11/2025  
 
 > ℹ️ **Nota:** Este informe debe guardarse en el repositorio bajo `/docs/fixes/2025-11-24_termux-compilation-fix.md` para futuras referencias.
